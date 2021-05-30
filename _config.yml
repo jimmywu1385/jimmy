@@ -1,0 +1,44 @@
+# site settings
+title: ＪIMMY
+subtitle: WU
+email: s28581513@gmail.com
+description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+baseurl: 
+url: https://github.com/jimmywu1385/jimmywu.github.io
+author:
+street_address: Rm. 1, 3F., No. 216, Zhixing Rd., Beitou Dist.,
+city: Taipei
+state: 
+zip_code: 112
+country: Taiwan
+phone: (02) 2858-1513
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/jimmywu1385
+  GitLab:
+  Google-Plus: 
+  Instagram: https://www.instagram.com/jimmywu871028/
+  LinkedIn: https://www.linkedin.com/in/峻銘-吳-57172b154/
+  Twitter: 
+  Facebook: https://www.facebook.com/profile.php?id=100000423651437
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
