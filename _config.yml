@@ -15,7 +15,7 @@ phone: (02) 2858-1513
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 2
+tiles-count: 6
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
